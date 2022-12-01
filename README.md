@@ -1,0 +1,1 @@
+A simple recipe website using only html for the ODIN PROJECT.
