@@ -1,0 +1,29 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 10px;
+    border-color: black;
+    border-style: dashed;
+    padding: 5px;
+
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 20px;
+
+}
